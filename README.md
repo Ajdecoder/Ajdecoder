@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Ajdecoder/Ajdecoder/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anuj Kumar Shrivastav</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
