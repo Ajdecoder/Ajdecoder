@@ -23,6 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajdecoder&show_icons=true&locale=en&layout=compact" alt="ajdecoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajdecoder&show_icons=true&bg_color=000000&locale=en" alt="ajdecoder" /></p>
+[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajdecoder&show_icons=true&theme=radical)](https://github.com/Ajdecoder/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdecoder&" alt="ajdecoder" /></p>
