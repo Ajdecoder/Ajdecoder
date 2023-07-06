@@ -1,7 +1,7 @@
 ![](https://github.com/Ajdecoder/Ajdecoder/assets/123423315/dcd9b6a2-0bcf-4c8d-8c43-f972060fe100)
 
-<h1 align="center">Hi 👋, I'm Anuj Kumar Shrivastav</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center" style="color: rgb(216, 34, 34)";>Hi 👋, I'm Anuj Kumar Shrivastav</h1>
+<h3 align="center" style="color: rgb(9, 9, 248);">A passionate full-stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajdecoder&label=Profile%20views&color=0e75b6&style=flat" alt="ajdecoder" /> </p>
