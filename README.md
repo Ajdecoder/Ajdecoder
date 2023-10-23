@@ -39,4 +39,4 @@
 [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajdecoder&show_icons=true&theme=radical)](https://github.com/Ajdecoder/github-readme-stats)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdecoder&" alt="ajdecoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdecoder&" alt="ajdecoder" height="280" /></p>
