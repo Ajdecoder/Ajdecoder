@@ -1,6 +1,9 @@
 ![](https://github.com/Ajdecoder/Ajdecoder/assets/123423315/dcd9b6a2-0bcf-4c8d-8c43-f972060fe100)
 
 <h1 align="center" style="color: rgb(216, 34, 34)";>Hi 👋, I'm Anuj Kumar Shrivastav</h1>
+
+[![](https://visitcount.itsvg.in/api?id=Ajdecoder&icon=10&color=3)](https://visitcount.itsvg.in)
+
 <h3 align="center" style="color: rgb(9, 9, 248);">A passionate full-stack developer from India</h3>
 
 <br>    
