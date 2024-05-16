@@ -1,4 +1,4 @@
-![](https://github.com/Ajdecoder/Ajdecoder/assets/123423315/dcd9b6a2-0bcf-4c8d-8c43-f972060fe100)
+![](https://github.com/Ajdecoder/Ajdecoder/blob/main/img/bg.gif)
 
 <h1 align="center" style="color: rgb(216, 34, 34)";>Hi 👋, I'm Anuj Kumar Shrivastav</h1>
 
