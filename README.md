@@ -2,9 +2,12 @@
 
 <h1 align="center" style="color: rgb(216, 34, 34)";>Hi 👋, I'm Anuj Kumar Shrivastav</h1>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 [![](https://visitcount.itsvg.in/api?id=Ajdecoder&icon=10&color=3)](https://visitcount.itsvg.in)
 
 <h3 align="center" style="color: rgb(9, 9, 248);">A passionate full-stack developer from India</h3>
+
 
 <br>    
 - ⚡ Fun fact **Yeah I Guess I'm Funny😉**
