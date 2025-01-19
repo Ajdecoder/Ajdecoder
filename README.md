@@ -1,4 +1,4 @@
-![](https://github.com/Ajdecoder/Ajdecoder/blob/main/img/bg.gif)
+<img src="https://github.com/user-attachments/assets/a4633f25-786b-4897-8727-7dd4845a30e4" alt="github-header-image" style="width: 100%; height: auto;">
 
 <h1 align="center" style="color: rgb(216, 34, 34)";>Hi 👋, I'm Anuj Kumar Shrivastav</h1>
 
