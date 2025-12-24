@@ -58,4 +58,4 @@
 <br>
 <br>
 
-[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajdecoder&show_icons=true&theme=radical)](https://github.com/Ajdecoder/github-readme-stats)
+[![GitHub Streak](https://streak-stats.herokuapp.com?user=Ajdecoder&theme=radical)](https://git.io/streak-stats)
