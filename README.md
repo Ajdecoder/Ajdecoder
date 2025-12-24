@@ -58,4 +58,5 @@
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.herokuapp.com?user=Ajdecoder&theme=radical)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/Ajdecoder?template=classic&config.timezone=Asia%2FKolkata)
+
